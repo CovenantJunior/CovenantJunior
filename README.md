@@ -14,10 +14,10 @@
 | [![Signature Pad](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=signature-pad&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/signature-pad) | [![Tea Transfer](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=tea-transfer&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/tea-transfer) |
 | *High-fidelity digital signatures.* | *Global Fintech architecture.* |
 
-| 🎵 **PointVisor (AI)** | 👁️ **Motion Detector** |
+| 🎵 **Advanced Flutter** | 👁️ **Motion Detector** |
 | :--- | :--- |
-| [![POint Visor](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=point_visor&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/point_visor) | [![Motion Detector](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=motion-detector&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/motion-detector) |
-| *Semantic Segmentation on DLRSD.* | *Real-time Computer Vision.* |
+| [![POint Visor](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=advanced_flutter&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/advanced_flutter) | [![Motion Detector](https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=motion-detector&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117)](https://github.com/CovenantJunior/motion-detector) |
+| *Scalable Flutter Architecture* | *Real-time Computer Vision.* |
 
 </div>
 
