@@ -1,79 +1,75 @@
 # 👋 Hello, I'm Covenant Junior
 
-### 📱 Full-Stack Mobile & Web Developer | Flutter Specialist
-**Building at [Teapotlab](https://github.com/CovenantJunior)**
+### 📱 Senior Flutter Specialist | Full-Stack Mobile & Web Architect
+**Leading Innovation at [Teapotlab](https://github.com/CovenantJunior)**
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Flutter+&+Android+Expert;Full-Stack+Web+Developer;Fintech+Solution+Architect;Minimalist+UI/UX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=36BCF7&width=800&height=50&lines=I+build+high-performance+mobile+applications+and+modern+web+ecosystems.;Specializing+in+clean+architecture%2C+minimalist+UI%2C+and+seamless+API+integrations.;Focused+on+delivering+scalable+Fintech+and+Music-Streaming+solutions." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 High-Impact Solutions
 
 <div align="center">
 
 | 🖋️ [Signature Pad](https://github.com/CovenantJunior/signature-pad) | 💳 [Tea Transfer](https://github.com/CovenantJunior/tea-transfer) |
 | :--- | :--- |
-| *Capturing smooth, digital signatures with Bézier curves.* | *A seamless Fintech demo for global money movement.* |
-| `Dart` `Flutter` `UI` | `PHP` `JavaScript` `SCSS` |
+| *Capturing smooth, digital signatures with Bézier curves.* | *Secure Fintech architecture for global currency exchange.* |
+| `Dart` `Flutter` `UI/UX` | `PHP` `JavaScript` `Fintech` |
 
 | 🎵 [Vibe](https://github.com/CovenantJunior/vibe) | 👁️ [Motion Detector](https://github.com/CovenantJunior/motion-detector) |
 | :--- | :--- |
-| *Unified music player with Spotify & Apple Music APIs.* | *Real-time motion sensing and visual feedback.* |
-| `Flutter` `REST APIs` `Audio` | `JavaScript` `Python` `OpenCV` |
+| *Unified music player with Spotify & Apple Music SDKs.* | *Real-time motion sensing and Computer Vision.* |
+| `Flutter` `Audio Engineering` | `Python` `OpenCV` `IoT` |
 
 </div>
 
 ---
 
-### 🛠️ My Digital Toolbox
+### 🛠️ Professional Expertise
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</div>
+<p align="left">
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📊 Performance & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CovenantJunior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CovenantJunior&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+### 🌌 Contribution 3D Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CovenantJunior&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CovenantJunior&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-### ⚡ Fun Facts & Activity
+### ⚡ Professional Focus
 
-* 🔭 Currently refining **Teapotlab** service offerings for professional mobile development.
-* 🎧 Passionate about music tech—integrating **Spotify** and **Apple Music** SDKs into custom builds.
-* 🎨 Aesthetic: **Clean, Modern, Minimalist.**
-* ⌨️ Font of choice: **Quicksand.**
-
-<p align="center">
-  <img src="https://my-github-snake.vercel.app/api/snake?github_user=CovenantJunior&color_dot=%23bfd6f6&color_snake=%2336bcf7&speed=5" alt="Snake Animation" />
-</p>
+* 🔭 **Currently Building:** Enterprise-grade mobile applications via **Teapotlab**.
+* 🎧 **Special Interest:** Audio-visual synchronization and music platform interoperability.
+* 🎨 **Design Philosophy:** Minimalist, clean, and modern aesthetics using the **Quicksand** font family.
+* 🌍 **Collaboration:** Open to international contracts and remote architecture roles.
 
 ---
 
 <div align="center">
-  <h3>📫 How to reach me</h3>
+  <h3>📫 Let's Build Something Extraordinary</h3>
   <a href="https://github.com/CovenantJunior">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Teapotlab-Contact-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
 <p align="center">
-  <i>“Translating complex logic into beautiful, fluid user experiences.”</i>
+  <i>“Refining the intersection of complex logic and beautiful user experiences.”</i>
 </p>
