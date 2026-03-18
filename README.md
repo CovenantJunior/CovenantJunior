@@ -1,75 +1,77 @@
-# 👋 Hello, I'm Covenant Junior
-
-### 📱 Senior Flutter Specialist | Full-Stack Mobile & Web Architect
-**Leading Innovation at [Teapotlab](https://github.com/CovenantJunior)**
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=36BCF7&width=800&height=50&lines=I+build+high-performance+mobile+applications+and+modern+web+ecosystems.;Specializing+in+clean+architecture%2C+minimalist+UI%2C+and+seamless+API+integrations.;Focused+on+delivering+scalable+Fintech+and+Music-Streaming+solutions." alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 High-Impact Solutions
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=250&section=header&text=Covenant%20Junior&fontSize=70&animation=fadeIn&fontColor=36BCF7&desc=Senior%20Mobile%20%26%20Web%20Architect%20@%20Teapotlab&descSize=20&descAlignVertical=55&fontAlignY=40" width="100%" />
 
-| 🖋️ [Signature Pad](https://github.com/CovenantJunior/signature-pad) | 💳 [Tea Transfer](https://github.com/CovenantJunior/tea-transfer) |
-| :--- | :--- |
-| *Capturing smooth, digital signatures with Bézier curves.* | *Secure Fintech architecture for global currency exchange.* |
-| `Dart` `Flutter` `UI/UX` | `PHP` `JavaScript` `Fintech` |
-
-| 🎵 [Vibe](https://github.com/CovenantJunior/vibe) | 👁️ [Motion Detector](https://github.com/CovenantJunior/motion-detector) |
-| :--- | :--- |
-| *Unified music player with Spotify & Apple Music SDKs.* | *Real-time motion sensing and Computer Vision.* |
-| `Flutter` `Audio Engineering` | `Python` `OpenCV` `IoT` |
-
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Crafting+Elite+Mobile+Experiences;Engineering+Fintech+Solutions;Scaling+Music+Streaming+APIs;Minimalism+meets+Complexity" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
 
-### 🛠️ Professional Expertise
+### 💎 The Portfolio Highlights
+<div align="center">
+  <br />
+  <a href="https://github.com/CovenantJunior/signature-pad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=signature-pad&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/CovenantJunior/tea-transfer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=tea-transfer&theme=tokyonight&show_owner=true" />
+  </a>
+  <br />
+  <a href="https://github.com/CovenantJunior/vibe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=vibe&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/CovenantJunior/motion-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CovenantJunior&repo=motion-detector&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
 
-<p align="left">
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
-  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-  <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+---
+
+### 🛠️ Technical Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,js,php,py,firebase,html,css,git,postman,vscode&theme=dark" />
+</div>
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CovenantJunior&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CovenantJunior&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CovenantJunior&theme=react-dark&area=true&hide_border=true&color=36BCF7" width="100%" />
 </p>
 
 ---
 
-### 📊 Performance & Contributions
+### ⚡ The Teapotlab Edge
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CovenantJunior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CovenantJunior&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-### 🌌 Contribution 3D Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CovenantJunior&theme=tokyonight" width="100%" />
-</p>
-
----
-
-### ⚡ Professional Focus
-
-* 🔭 **Currently Building:** Enterprise-grade mobile applications via **Teapotlab**.
-* 🎧 **Special Interest:** Audio-visual synchronization and music platform interoperability.
-* 🎨 **Design Philosophy:** Minimalist, clean, and modern aesthetics using the **Quicksand** font family.
-* 🌍 **Collaboration:** Open to international contracts and remote architecture roles.
+* 🏗️ **Architecture:** Clean Code & Scalable Flutter Widgets.
+* 💳 **Industry:** Heavy focus on **Fintech** logic and cross-border payment flows.
+* 🎧 **Innovation:** Deep integration with **Spotify & Apple Music** SDKs.
+* 🎨 **UI Standard:** Modern, Minimalist, and user-centric.
 
 ---
 
 <div align="center">
-  <h3>📫 Let's Build Something Extraordinary</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works." />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-36BCF7?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://github.com/CovenantJunior">
-    <img src="https://img.shields.io/badge/Teapotlab-Contact-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Teapotlab-Global-white?style=for-the-badge&logo=google-chrome&logoColor=36BCF7" />
   </a>
 </div>
 
 <p align="center">
-  <i>“Refining the intersection of complex logic and beautiful user experiences.”</i>
+  <img src="https://komarev.com/ghpvc/?username=CovenantJunior&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
